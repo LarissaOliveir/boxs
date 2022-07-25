@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+}
+
+.main{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+#bx-1{
+    position: relative;
+    width: 18rem;
+    height: 25rem;
+    background-color: #3636bd;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+#bx-2{
+    background-color: #8748bb;
+    width: 25rem;
+    height: 25rem;
+    position: relative;
+    border-radius: 10px;
+}
+
